@@ -6,7 +6,7 @@ This Java application demonstrates how to connect to a MySQL database using JDBC
 
 ## Code Description
 
-The provided code connects to a MySQL database, executes a `SELECT` query on the `EngineeringStudents` table, and prints out the results. 
+The provided code connects to a MySQL database, executes a `SELECT` query on the `table_name` table, and prints out the results. 
 
 ### Main Features:
 - **Connects to MySQL Database**: Establishes a connection using JDBC.
